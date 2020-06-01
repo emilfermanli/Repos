@@ -1,0 +1,276 @@
+{
+  "data": {
+    "owner_id": "",
+    "email": "test@mail.ru",
+    "username": "Emil Fermanli",
+    "status": false,
+    "is_role": false,
+    "id_role": "",
+    "name": "",
+    "surname": "",
+    "company_name": "",
+    "company_address": "",
+    "company_postal_code": "",
+    "city": "",
+    "state": "",
+    "country": "",
+    "company_vat_id": "",
+    "currency": "",
+    "company_logo_url": "",
+    "phone_number": "",
+    "notification_email": "",
+    "notification_note": "",
+    "email_activated": false,
+    "monthly_plan": "",
+    "plan_date": "",
+    "terms_and_conditions": "",
+    "language": "en",
+    "time_zone": "GMT+4",
+    "measurement": "m"
+  },
+  "project": [
+    {
+      "project_name": "Beta ",
+      "region": "3",
+      "plan": "3",
+      "plan_info": "Beta test Key",
+      "id": 1
+    }
+  ],
+  "azure": [
+    {
+      "azure": {
+        "project_name": "GOD",
+        "stream_name": "Azure",
+        "access_key": "asdasd",
+        "secret_access_key": "asdasd",
+        "region": "3"
+      },
+      "id": 1
+    },
+    {
+      "azure": {
+        "project_name": "asdfasdf",
+        "stream_name": "aZURE",
+        "access_key": "123123123",
+        "secret_access_key": "a;skd;fmaskldmf",
+        "region": "3"
+      },
+      "id": 2
+    },
+    {
+      "azure": {
+        "project_name": "asdfasdf",
+        "stream_name": "salama",
+        "access_key": "asasdasd",
+        "secret_access_key": "dasd",
+        "region": "4"
+      },
+      "id": 3
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "salam",
+        "access_key": "kele",
+        "secret_access_key": "netersen",
+        "region": "4"
+      },
+      "id": 4
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "salam",
+        "access_key": "kele",
+        "secret_access_key": "netersen",
+        "region": "4"
+      },
+      "id": 5
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "salam",
+        "access_key": "kele",
+        "secret_access_key": "netersen",
+        "region": "4"
+      },
+      "id": 6
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "asdfasdf",
+        "access_key": "fasdfasdf",
+        "secret_access_key": "fasdfasdf",
+        "region": "3"
+      },
+      "id": 7
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "asdfasf",
+        "access_key": "fasdfasdf",
+        "secret_access_key": "fsdfasdf",
+        "region": "3"
+      },
+      "id": 8
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "asdfasf",
+        "access_key": "fasdfasdf",
+        "secret_access_key": "fsdfasdf",
+        "region": "3"
+      },
+      "id": 9
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "asdfasf",
+        "access_key": "fasdfasdf",
+        "secret_access_key": "fsdfasdf",
+        "region": "3"
+      },
+      "id": 10
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "asdfasf",
+        "access_key": "fasdfasdf",
+        "secret_access_key": "fsdfasdf",
+        "region": "3"
+      },
+      "id": 11
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "asdfasf",
+        "access_key": "fasdfasdf",
+        "secret_access_key": "fsdfasdf",
+        "region": "3"
+      },
+      "id": 12
+    },
+    {
+      "azure": {
+        "project_name": "Beta123",
+        "stream_name": "asdfasf",
+        "access_key": "fasdfasdf",
+        "secret_access_key": "fsdfasdf",
+        "region": "3"
+      },
+      "id": 13
+    }
+  ],
+  "certificate": [
+    {
+      "certificate": {
+        "project_name": "GOD",
+        "domain_name": "Certificate",
+        "ca_chain": "asdasd",
+        "certificate": "dasdasd",
+        "private_key": "dasdklmaslkdm"
+      },
+      "id": 1
+    },
+    {
+      "certificate": {
+        "project_name": "Beta123",
+        "domain_name": "dasfasdf",
+        "ca_chain": "fasdfasdf",
+        "certificate": "fasdfasdf",
+        "private_key": "wefwefqwef"
+      },
+      "id": 2
+    }
+  ],
+  "password": [
+    {
+      "newPassword": {
+        "new_password": "salam",
+        "repeat_password": "salam"
+      },
+      "id": 1
+    },
+    {
+      "new_password": "salam",
+      "repeat_password": "salam",
+      "id": 2
+    },
+    {
+      "new_password": "",
+      "repeat_password": " ",
+      "id": 3
+    },
+    {
+      "new_password": "",
+      "repeat_password": " ",
+      "id": 4
+    },
+    {
+      "new_password": "salam",
+      "repeat_password": "salam",
+      "id": 5
+    },
+    {
+      "new_password": "azerbaijan123",
+      "repeat_password": "azerbaijan123",
+      "id": 6
+    },
+    {
+      "new_password": "123",
+      "repeat_password": "123",
+      "id": 7
+    },
+    {
+      "new_password": "qüe",
+      "repeat_password": "qüe",
+      "id": 8
+    },
+    {
+      "new_password": "godre",
+      "repeat_password": "godre",
+      "id": 9
+    }
+  ],
+  "mail": [
+    {
+      "new_mail": "",
+      "repeat_mail": "",
+      "id": 1
+    },
+    {
+      "new_mail": "",
+      "repeat_mail": "",
+      "id": 2
+    },
+    {
+      "new_mail": "",
+      "repeat_mail": "",
+      "id": 3
+    },
+    {
+      "new_mail": "",
+      "repeat_mail": "emilfermanli@gmail.com",
+      "new_email": "emilfermanli@gmail.com",
+      "id": 4
+    }
+  ],
+  "settings": [
+    {
+      "deleteTime": "2020-5-29",
+      "id": 1
+    },
+    {
+      "deleteTime": "2020-5-29",
+      "id": 2
+    }
+  ]
+}

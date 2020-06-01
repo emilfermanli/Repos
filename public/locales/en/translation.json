@@ -1,0 +1,114 @@
+{
+    "header": {
+        "accountSettings": "Account settings",
+        "accountBilling": "Billing",
+        "accountLog": "Log out",
+        "allItm": "All project"
+    },
+    "projectHeader": {
+        "header": "Projects",
+        "edit": "Edit"
+    },
+    "billing": {
+        "billingInformation": "Billing information",
+        "paymentOptions": "Payment options",
+        "companyName": "Company name",
+        "billingEmail": "Billing email",
+        "billingNote": "Billing note",
+        "companyAddress": "Company address",
+        "country": "Country",
+        "vatID": "Vat ID",
+        "selectCard": "Select card",
+        "newCard": "New card",
+        "otherPayment": "Other payment options",
+        "saveCurrency": "Save currency",
+        "info": "Info: Billing is performed monthly, based on usage"
+    },
+    "account": {
+        "accountSettings": "Account settings",
+        "newPassword": "New password",
+        "confirmPassword": "Confirm new password",
+        "changePassword": "Change password",
+        "newEmail": "New email",
+        "confirmEmail": "Confirm new email",
+        "changeEmail": "Change email",
+        "deleteAccount": "Delete account",
+        "deleteInfo": "To be able to delete your account you have to makes sure you have no running instances and no unpaid invoices. You will receive a final invoice for any instance time not yet invoiced.",
+        "language": "Change language",
+        "selectLanguage": "Select language"
+    },
+    "actionType": {
+        "save": "Save",
+        "download": "Download",
+        "reset": "Reset",
+        "send": "Send"
+    },
+    "newProject": {
+        "projectAction": "New project",
+        "projectEdit": "Edit project",
+        "projectName": "Project name",
+        "projectRegion": "Select region",
+        "projectPlan": "Select plan",
+        "projectKey": "Access key",
+        "projectCancel": "Cancel",
+        "projectStart": "Start project"
+    },
+    "newUser": {
+        "project": "Welcom to our service and etc...",
+        "startProject": "Start new project"
+    },
+    "sidebar": {
+        "projectSettings": "Project settings",
+        "azureStream": "Azure stream analytics",
+        "certificate": "Certificates",
+        "messages": "Messages",
+        "statics": "Statics",
+        "logs": "Logs"
+    },
+    "projectDetail": {
+        "projectName": "Project name",
+        "projectServer": "Server URL",
+        "token": "Token",
+        "port": "Port",
+        "sslPort": "SSL Port",
+        "planLimits": "Plan limits",
+        "database": "Database",
+        "downloadText": "Download database in csv format",
+        "resetText": "You can clear all stored data in database"
+    },
+    "azure": {
+        "connect": "Connect to Azure Stream Analytics",
+        "freePlan": "Azure Stream Analytics is not available on free plans",
+        "streamName": "Stream name",
+        "azureKey": "Access key",
+        "azureSecretKey": "Secret Access key",
+        "azureRegion": "Region"
+    },
+    "certificate": {
+        "certificate": "Certificates",
+        "certificateDomain": "Domain names",
+        "certificateChain": "Ca chain",
+        "certificateCertificate": "Certificate",
+        "certificatePrivateKey": "Private key",
+        "certificateChange": "Change certificate"
+    },
+    "statics": {
+        "headerMQ": "MQ connections",
+        "headerSSLMQ": "SSL MQ connections",
+        "headerWebSocket": "Websocket connections",
+        "maxConnected": "Max connected:",
+        "online": "Online:",
+        "savedConnections": "Saved connections:"
+    },
+    "messages": {
+        "messagesInfo": "Messages are displayed in real-time as they are received by the broker.",
+        "messagesSend": "Send message",
+        "messagesTopic": "Topic",
+        "messagesMessage": "Message",
+        "messagesReceive": "Received message",
+        "messagesClearSession": "Clear Session",
+        "messagesClient": "Clent id",
+        "messagesSign": "Sign in",
+        "messagesProject": "Project Name"
+    }
+}

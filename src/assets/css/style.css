@@ -1,0 +1,156 @@
+body {
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.custom-color {
+  background-color: #347ab3 !important;
+  border: none !important;
+}
+
+.project-item-box {
+  padding: 15px 30px;
+  height: 320px;
+  border: 1px solid #e0e0e0;
+  overflow-y: scroll;
+}
+
+.dropdown-item:hover, .dropdown-item:focus {
+  border-color: transparent;
+}
+
+.footer {
+  background-color: #cecece;
+  padding: 30px 0px;
+  width: 100%;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+.navbar {
+  border-bottom: 2px solid #e0e0e0;
+}
+.navbar .navbar-nav {
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.projects-header {
+  padding: 60px 0px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.project-item {
+  padding: 15px 15px;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid #e0e0e0;
+}
+.project-item .custom-button {
+  padding: 10px 30px;
+}
+
+.custom-btn {
+  width: 150px;
+  padding: 5px 30px !important;
+}
+
+.form-style {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.message-box {
+  border: 1px solid #e0e0e0;
+  height: 300px;
+  padding: 15px 15px;
+}
+.message-box h6 {
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ddeeff;
+}
+
+.sidebar-items {
+  background-color: #f8f8f8;
+  height: 100%;
+  border-right: 1px solid #eaeaea;
+}
+.sidebar-items .nav-itm {
+  display: block;
+  padding: 10px 10px;
+}
+.sidebar-items .main-nav-active {
+  background-color: #347ab3;
+  color: white;
+}
+
+.dropdown-item.active, .dropdown-item:active {
+  background-color: #347ab3 !important;
+}
+
+.fade-enter {
+  opacity: 0;
+  z-index: 1;
+}
+
+.fade-enter.fade-enter-active {
+  opacity: 1;
+  transition: opacity 250ms ease-in;
+}
+
+.list li:nth-of-type(even) {
+  padding-left: 15px;
+  color: grey !important;
+}
+
+.connections {
+  flex-direction: column;
+}
+.connections li {
+  margin: 10px 0px;
+  color: grey;
+}
+.connections li h3 {
+  color: black;
+}
+
+.message-mini {
+  margin-top: 15px;
+  border: 1px solid #e0e0e0;
+  padding: 15px 15px;
+}
+.message-mini h6 {
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ddeeff;
+}
+
+.big {
+  border-bottom: 2px solid #ddeeff;
+}
+
+.project-detail {
+  display: flex;
+  justify-content: center;
+  border-bottom: 1px solid #e0e0e0;
+  padding-bottom: 60px;
+}
+
+.waiting-item {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.waiting-item div {
+  margin: 10px 0px;
+}
+.waiting-item div span {
+  margin-right: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */

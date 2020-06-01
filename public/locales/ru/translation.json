@@ -1,0 +1,114 @@
+{
+    "header": {
+        "accountSettings": "Настройки учетной записи",
+        "accountBilling": "биллинг",
+        "accountLog": "Выйти",
+        "allItm": "Весь проект"
+    },
+    "projectHeader": {
+        "header": "проектов",
+        "edit": "Pедактировать"
+    },
+    "billing": {
+        "billingInformation": "Платежная информация",
+        "paymentOptions": "Варианты оплаты",
+        "companyName": "Название компании",
+        "billingEmail": "Платежный адрес электронной почты",
+        "billingNote": "Платежная записка",
+        "companyAddress": "Адрес компании",
+        "country": "Страна",
+        "vatID": "Vat ID",
+        "selectCard": "Выберите карту",
+        "newCard": "Новая карта",
+        "otherPayment": "Другие способы оплаты",
+        "saveCurrency": "Сохранить валюту",
+        "info": "Информация: выставление счетов производится ежемесячно, в зависимости от использования"
+    },
+    "account": {
+        "accountSettings": "Настройки учетной записи",
+        "newPassword": "Новый пароль",
+        "confirmPassword": "Подтвердите новый пароль",
+        "changePassword": "Изменить пароль",
+        "newEmail": "Новый e-mail",
+        "confirmEmail": "Подтвердите новый адрес электронной почты",
+        "changeEmail": "Сменить имейл",
+        "deleteAccount": "Удалить аккаунт",
+        "deleteInfo": "Чтобы иметь возможность удалить свою учетную запись, вы должны убедиться, что у вас нет запущенных экземпляров и неоплаченных счетов. Вы получите окончательный счет за любое время, еще не выставленное.",
+        "language": "Изменение языка",
+        "selectLanguage": "Выберите язык"
+    },
+    "actionType": {
+        "save": "Сохранить",
+        "download": "Скачать",
+        "reset": "Сброс",
+        "send": "Отправить"
+    },
+    "newProject": {
+        "projectAction": "Новый проект",
+        "projectEdit": "Редактировать проект",
+        "projectName": "Название проекта",
+        "projectRegion": "Выберите регион",
+        "projectPlan": "Выберите план",
+        "projectKey": "Ключ доступа",
+        "projectCancel": "Отмена",
+        "projectStart": "Начать проект"
+    },
+    "newUser": {
+        "project": "Добро пожаловать на наш сервис",
+        "startProject": "Начать новый проект"
+    },
+    "sidebar": {
+        "projectSettings": "Настройки проекта",
+        "azureStream": "Azure Stream Analytics",
+        "certificate": "Сертификаты",
+        "messages": "Сообщения",
+        "statics": "Cтатика",
+        "logs": "бревна"
+    },
+    "projectDetail": {
+        "projectName": "Название проекта",
+        "projectServer": "URL сервера",
+        "token": "Token",
+        "port": "Port",
+        "sslPort": "SSL Port",
+        "planLimits": "Пределы плана",
+        "database": "База данных",
+        "downloadText": "Скачать базу данных в формате csv",
+        "resetText": "Вы можете очистить все сохраненные данные в базе данных"
+    },
+    "azure": {
+        "connect": "Подключитесь к Azure Stream Analytics",
+        "freePlan": "Analytics Azure Stream недоступна для бесплатных планов",
+        "streamName": "Имя потока",
+        "azureKey": "Ключ доступа",
+        "azureSecretKey": "Секретный ключ доступа",
+        "azureRegion": "Область"
+    },
+    "certificate": {
+        "certificate": "Сертификаты",
+        "certificateDomain": "Доменные имена",
+        "certificateChain": "Ca цепь",
+        "certificateCertificate": "Cертификат",
+        "certificatePrivateKey": "Закрытый ключ",
+        "certificateChange": "Изменить сертификат"
+    },
+    "statics": {
+        "headerMQ": "MQ связи",
+        "headerSSLMQ": "SSL MQ связи",
+        "headerWebSocket": "Websocket связи",
+        "maxConnected": "Максимум подключен:",
+        "online": "Oнлайн:",
+        "savedConnections": "Сохраненные соединения:"
+    },
+    "messages": {
+        "messagesInfo": "Сообщения отображаются в режиме реального времени по мере их получения брокером.",
+        "messagesSend": "Отправить сообщение",
+        "messagesTopic": "Тема",
+        "messagesMessage": "Сообщение",
+        "messagesReceive": "Полученное сообщение",
+        "messagesClearSession": "Очистить сессию",
+        "messagesClient": "ID клиента",
+        "messagesSign": "Bойти в систему",
+        "messagesProject": "Hазвание проекта"
+    }
+}

@@ -1,0 +1,106 @@
+{
+    "header": {
+        "accountSettings": "Hesab Tənzimləmələri",
+        "accountBilling": "Hesablama",
+        "accountLog": "Çıxış",
+        "allItm": "Bütün layihələr"
+    },
+    "projectHeader": {
+        "header": "Layihələr",
+        "edit": "Redaktə edin"
+    },
+    "billing": {
+        "billingInformation": "Ödəmə məlumatı",
+        "paymentOptions": "Ödəniş variantları",
+        "companyName": "Şirkət adı",
+        "billingEmail": "Hesablama e-poçtu",
+        "billingNote": "Hesablama qeydi",
+        "companyAddress": "Şirkət ünvanı",
+        "country": "Ölkə",
+        "vatID": "Vat ID",
+        "selectCard": "Kart seçin",
+        "newCard": "Yeni kart",
+        "otherPayment": "Digər ödəniş seçimləri",
+        "saveCurrency": "Valyutanı yadda saxla",
+        "info": "Məlumat: Hesablama istifadə müddətinə əsasən aylıq edilir"
+    },
+    "account": {
+        "accountSettings": "Hesab Tənzimləmələri",
+        "newPassword": "Yeni şifrə",
+        "confirmPassword": "Confirm new password",
+        "changePassword": "Yeni şifrənin təkrarı",
+        "newEmail": "Yeni email",
+        "confirmEmail": "Yeni e-poçtun təkrarı",
+        "changeEmail": "E-maili dəyişmək",
+        "deleteAccount": "Hesabı silin",
+        "deleteInfo": "Hesabınızı silmək üçün çalışan sənədlərin və ödənilməmiş fakturaların olmadığından əmin olmalısınız. Hələ fakturalanmamış istənilən bir müddət üçün son hesab-faktura alacaqsınız.",
+        "language": "Dili dəyişdirin",
+        "selectLanguage": "Dil seçin"
+    },
+    "actionType": {
+        "save": "Yadda saxla",
+        "download": "Yükləyin",
+        "reset": "Sıfırlayın",
+        "send": "Göndər"
+    },
+    "newProject": {
+        "projectAction": "Yeni layihə",
+        "projectEdit": "Layihəni düzəldin",
+        "projectName": "Layihənin adı",
+        "projectRegion": "Bölgəni seçin",
+        "projectPlan": "Plan seçin",
+        "projectKey": "Giriş açarı",
+        "projectCancel": "Ləğv et",
+        "projectStart": "Layihəyə başlayın"
+    },
+    "newUser": {
+        "project": "Xidmətimizə xoş gəldiniz",
+        "startProject": "Yeni layihəyə başlayın"
+    },
+    "sidebar": {
+        "projectSettings": "Layihə parametrləri",
+        "azureStream": "Azure Stream Analytics",
+        "certificate": "Sertifikatlar",
+        "messages": "Mesajlar",
+        "statics": "Statistikalar",
+        "logs": "Qeydlər"
+    },
+    "projectDetail": {
+        "projectName": "Layihənin adı",
+        "projectServer": "Server URL",
+        "token": "Token",
+        "port": "Port",
+        "sslPort": "SSL Port",
+        "planLimits": "Plan hədləri",
+        "database": "Verilənlər bazası",
+        "downloadText": "Verilənlər bazasını csv formatında yükləyin",
+        "resetText": "Verilənlər bazasında saxlanan bütün məlumatları silə bilərsiniz"
+    },
+    "azure": {
+        "connect": "Azure Stream Analytics-a qoşulun",
+        "freePlan": "Azure Stream Analytics pulsuz planlarda mövcud deyil",
+        "streamName": "Axın adı",
+        "azureKey": "Giriş açarı",
+        "azureSecretKey": "Gizli giriş açarı",
+        "azureRegion": "Bölgə"
+    },
+    "certificate": {
+        "certificate": "Sertifikatlar",
+        "certificateDomain": "Domen adları",
+        "certificateChain": "Ca zənciri",
+        "certificateCertificate": "Sertifikat",
+        "certificatePrivateKey": "Şəxsi açar",
+        "certificateChange": "Sertifikatı dəyişdirin"
+    },
+    "messages": {
+        "messagesInfo": "Mesajlar vasitəçi tərəfindən aldıqları kimi real vaxt rejimində göstərilir.",
+        "messagesSend": "Mesaj göndərin",
+        "messagesTopic": "Mövzu",
+        "messagesMessage": "Mesaj",
+        "messagesReceive": "Alınan mesaj",
+        "messagesClearSession": "Sessiyanı təmizlə",
+        "messagesClient": "Müştəri İD",
+        "messagesSign": "Daxil ol",
+        "messagesProject": "Layihənin adı"
+    }
+}
