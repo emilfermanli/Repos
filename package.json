@@ -13,7 +13,7 @@
     "i18next-xhr-backend": "^3.2.2",
     "js-cookie": "^2.2.1",
     "json-server": "^0.16.1",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-announcement": "^1.1.2",
     "react-dom": "^16.13.1",
